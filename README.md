@@ -1,1 +1,2 @@
 # odin-recipes
+This is a Recipe website project. The aim of this project is to demonstrate the ability to create a simple website using the html boilerplate and some html elements. In this project I hope to have demonstrated a strong understanding of some html elements and the ability to push my project in Github.
